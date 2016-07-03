@@ -1,5 +1,5 @@
-# Arduino
-This is all the changes that I made in order to make the TFT sheild to work with Arduino.
+# Arduino libraryies I use
+This are all the changes that I made in order to make the TFT sheild to work with Arduino.
 
 define YP A2  // must be an analog pin, use "An" notation!
 
